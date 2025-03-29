@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Sousa 🤖
+## Olá! Eu sou o Leonardo Alves 🤖
 
 ## Tecnologias que eu uso no meu dia
 
