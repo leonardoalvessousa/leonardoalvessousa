@@ -1,6 +1,6 @@
-## Olá! Eu sou o Leonardo Alves 🤖
+## Hello! I'm Leonardo🤖
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -11,4 +11,4 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div><br/>
 
-Apaixonado por tecnologia, educação e pela robótica!
+Passionate about technology, education, and robotics!
